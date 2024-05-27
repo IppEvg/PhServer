@@ -1,0 +1,22 @@
+{
+    "posts": [
+      {
+        "id": 234523,
+        "title": "Футболка",
+        "jpg":"https://ippevg.github.io/PhServer/Assets/F.jpg"
+      },
+      {
+        "id": 234345,
+        "title": "Пиджак",
+        "jpg":"https://ippevg.github.io/PhServer/Assets/P.jpg"
+      },
+      {
+        "id": 213423,
+        "title": "Платье-футболка",
+        "jpg":"https://ippevg.github.io/PhServer/Assets/P-F.jpg"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+}
