@@ -6,7 +6,8 @@
         "jpg":"https://ippevg.github.io/PhServer/Assets/F.jpg",
         "articule":"K-HD-B-110",
         "size":[110,116,122,128,134,140,146,152,158,164],
-        "color":"Белый"
+        "color":"Белый",
+        "cost":2400
       },
       {
         "id": 234345,
@@ -14,7 +15,8 @@
         "jpg":"https://ippevg.github.io/PhServer/Assets/P.jpg",
         "articule":"K-F-H-128",
         "size":[110,116,122,128,134,140,146,152,158,164],
-        "color":"Розовый"
+        "color":"Розовый",
+        "cost":7200
       },
       {
         "id": 213423,
@@ -22,7 +24,8 @@
         "jpg":"https://ippevg.github.io/PhServer/Assets/P-F.jpg",
         "articule":"K-HD-B-110-116",
         "size":[110,116,122,128,134,140,146,152,158,164],
-        "color":"Темно-серый"
+        "color":"Темно-серый",
+        "cost":1600
       }
     ],
     "profile": {
