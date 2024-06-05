@@ -7,7 +7,13 @@
         "wip":12,
         "walidation":41,
         "delivered":6
+      },
+      {
+        "id": 2,
+        "title": "Item At Risk",
+        "per":11
       }
+
     ],
     "profile": {
       "name": "typicode"
