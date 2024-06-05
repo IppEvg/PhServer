@@ -54,6 +54,7 @@
       {
         "id": 5,
         "title": "Rich Filter Pie Chart",
+        "estimate":"6w 3d 7h",
         "team":[{"RedTeam":45},{"BlueTeam":27},{"OrangeTeam":28}]
       }
     ],
