@@ -1,0 +1,15 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "title": "Hight Level Status",
+        "backlog":80,
+        "wip":12,
+        "walidation":41,
+        "delivered":6
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+}
