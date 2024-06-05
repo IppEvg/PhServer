@@ -12,8 +12,50 @@
         "id": 2,
         "title": "Item At Risk",
         "per":11
+      },
+      {
+        "id": 3,
+        "title": "Rich Filter Date Bar Chart",
+        "categories": [
+          "W24",
+          "W25",
+          "W26",
+          "W27",
+          "W28",
+          "W29",
+          "W30",
+          "W31"
+        ],
+        "titleTextX": "Due Date (Weekly)",
+        "titleTextY": "Issues (cumulative total)",
+        "series":[
+          {
+            "name": "To Do",
+            "data": [0, 2, 4, 7, 8, 8, 10, 11],
+            "color": "#1E90FF"
+          },
+          {
+            "name": "In Progress",
+            "data": [0, 0, 0, 1, 2, 2, 2, 3],
+            "color":"#FFA500"
+          },
+          {
+            "name": "Done",
+            "data": [8, 9, 11, 9, 9, 9, 9, 8],
+            "color":"#32CD32"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Rich Filter Controller",
+        "property":["Items at risk","Issue text","Hight Level Status"]
+      },
+      {
+        "id": 5,
+        "title": "Rich Filter Pie Chart",
+        "team":[{"RedTeam":45},{"BlueTeam":27},{"OrangeTeam":28}]
       }
-
     ],
     "profile": {
       "name": "typicode"
